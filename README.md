@@ -16,11 +16,11 @@ You have done! Now you are able to easily rotate a Youtube video.
 
 After
 
-![Alt text](https://github.com/albertopiras/youtube-video-inverter/assets/images/normal.png?raw=true "Normal youtube video")
+![Alt text](https://raw.githubusercontent.com/albertopiras/youtube-video-inverter/master/assets/images/normal.png?raw=true "Normal youtube video")
 
 Before
 
-![Alt text](https://github.com/albertopiras/youtube-video-inverter/assets/images/inverted.png?raw=true "Inverted video")
+![Alt text](https://raw.githubusercontent.com/albertopiras/youtube-video-inverter/master/assets/images/inverted.png?raw=true "Inverted video")
 
 ## License:
 
